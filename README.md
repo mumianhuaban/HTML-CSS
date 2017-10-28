@@ -4,6 +4,14 @@
 
 关键词：Flex布局 百分比布局 rem vh vw
 
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+整个页面
+![](https://github.com/mumianhuaban/HTML-CSS/blob/master/show/1.png) 
 
+4/3页面
+![](https://github.com/mumianhuaban/HTML-CSS/blob/master/show/2.png) 
 
+1/2页面
+![](https://github.com/mumianhuaban/HTML-CSS/blob/master/show/3.png) 
+
+最小视图
+![](https://github.com/mumianhuaban/HTML-CSS/blob/master/show/4.png) 
